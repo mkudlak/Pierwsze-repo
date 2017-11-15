@@ -2,6 +2,10 @@ body {
 	background: rgb(181, 212, 211);
 	text-align: center;
 }
+h1 {
+	font-family: 'Pacifico', cursive;
+}
 p {
+	font-family: 'Vollkorn SC', serif;
 	color: white;
 }
